@@ -1,0 +1,10 @@
+<BrowserRouter>
+            <div>
+              <Switch>
+                <Route path="/" exact render={(routeProps) => 
+                (<Login authenticate={this.authenticate} displayErrorMessage={this.displayErrorMessage} />)} />
+                <Route path="/dashboard" render={(routeProps) => 
+                (<Dashboard username={this.state.username} role={this.state.role} isLoggedIn={this.state.isLoggedIn} />)} />
+              </Switch>
+            </div>
+          </BrowserRouter>
