@@ -1,0 +1,32 @@
+.ce-block {
+    background-color: beige;
+}
+
+.ce-block--focused {
+    background-color: khaki;
+}
+
+.button-panel {
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.initBox {
+    font-size: 150px;
+    text-align: center;
+}
+.btn-circle {
+    width: 100%;
+}
+.btn-circle:hover {
+    background-color: gray;
+}
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    background-color: lavender;
+    opacity: 0.9;
+}

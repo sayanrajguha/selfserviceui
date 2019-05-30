@@ -1,0 +1,114 @@
+{
+    "time" : 1557396302271,
+    "blocks" : [
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "Featuring Research From Forrester",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "image",
+            "data" : {
+                "file" : {
+                    "url" : "http://www.bme.ufl.edu/labs/stabler/files/2015/05/HIRN-1-logo.jpg"
+                },
+                "caption" : "The Forrester Wave™: B2B Commerce Suites, Q3 2018",
+                "withBorder" : true,
+                "stretched" : false,
+                "withBackground" : false
+            }
+        },
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "B2B Brands Can Create A Digitally Enabled Customer Experience That Is A Distinct Competitive Advantage By Offering Speed To Market",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Technology has fundamentally changed what people expect from B2B companies. B2B brands can create a digitally enabled customer experience that is a distinct competitive advantage by offering speed to market, manageable costs, superior flexibility, and the ability to scale."
+            }
+        },
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "The Connected Customer Reality",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Companies have been talking about “putting the customer first” for decades, but the truth is, customers are putting themselves first in today’s digital marketplace. Technology has fundamentally changed what people expect from companies. If they can't research, browse, and transact business wherever and whenever they want, better options are only a keystroke away. In the age of innovative ecommerce sites, artificial intelligence (AI), and social media, any disappointing experience can quickly take on a life of its own."
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "This challenging trend has hardened into a new reality for B2B companies. In a recent survey of more than 6,700 consumers and business buyers*, 81% of business buyers said that customer experience is as important to them as the products and services a company provides. Nearly seven in 10 said they expect an “Amazon-like” buying experience from their business vendors and almost as many said they have switched vendors when the customer experience disappoints."
+            }
+        },
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "Personalized And Friction-Free Service",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "The new digital experience has conditioned all buyers – B2C or B2B – to expect an identical level of instantaneous, personalized, friction-free service. And business buyers see no need to compromise – 73% of them in the research said that their standards for a good customer experience have never been higher, and 76% say it’s never been easier to take their business elsewhere."
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "What does good look like? Three-quarters of business buyers surveyed said they expect vendors to have connected processes like providing seamless handoffs between the various departments they encounter. Rather than having to explain to service what they already told to sales, they’re looking for contextualized engagement based on earlier interactions. At the same time, 76% of business buyers expect vendors to understand how they use different products and services in their business, and 73% say it’s important that the companies they do business with provide instant, on-demand engagement."
+            }
+        },
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "Top Sales Teams Use A Single View Of The Customer To Collaborate.",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "As we’ve seen, business buyers are gravitating to vendors that understand them and provide consistent, personalized experiences across the customer journey. The most effective B2B sales organizations are delivering by using a 360-degree view of the customer to collaborate with other departments as never before. At least 80% of the sales reps surveyed say a connected view of customer data across marketing, sales, and service is important to increasing customer satisfaction, closing more deals, and empowering reps to be proactive. High-performing sales organizations are 1.4 times more likely than underperformers to have a standard process for collaboration between sales and marketing. They are also 1.4 times more likely to share common goals and metrics across those functions. The same is true of service. High performers are 1.4 times more likely to have a free and open flow of customer data between sales and service and 1.6 times more likely to have service reps who proactively alert sales people to opportunities."
+            }
+        },
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "The Time To Act Is Now.",
+                "level" : 1
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Customers aren’t waiting for change to come their way. They are bringing the retail expectations to work and are looking to their business vendors to treating them as well as Amazon does."
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "For B2B companies, this is a call to action. Although the challenges of meeting complex customer expectations can be steep, the cost of waiting is a real risk — but they can be overcome. A critical starting place is to recognize that your customers will tell you what they need and then tell you again and again in an endless feedback loop. The only solutions worth investing in are those that enhance your ability to connect with customers in the ways that are most meaningful to them by offering speed to market, manageable costs, superior flexibility, and the ability to scale."
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Sources: “State of the Connected Customer,” Salesforce Research, June 2018 and “State of Sales,” Salesforce Research May 2018"
+            }
+        }
+    ],
+    "version" : "2.12.4"
+}

@@ -1,0 +1,64 @@
+{
+    "time" : 1557396302271,
+    "blocks" : [
+        {
+            "type" : "header",
+            "data" : {
+                "text" : "",
+                "level" : 2
+            }
+        },
+        {
+            "type" : "paragraph",
+            "data" : {
+                "text" : "This is a paragraph"
+            }
+        },
+        {
+            "type" : "image",
+            "data" : {
+                "file" : {
+                    "url" : "http://digitcodes.com/wp-content/uploads/2013/02/image-placeholder.png"
+                },
+                "withBorder" : false,
+                "stretched" : false,
+                "withBackground" : false
+            }
+        },
+        {
+            "type" : "list",
+            "data" : {
+                "style" : "unordered",
+                "items" : [
+                    "Unordered List Item 1",
+                    "Unordered List Item 2",
+                    "Unordered List Item 3"
+                ]
+            }
+        },
+        {
+            "type" : "delimiter",
+            "data" : {}
+        },
+        {
+            "type" : "checklist",
+            "data" : {
+                "items" : [
+                    {
+                        "text" : "TODO item 1",
+                        "checked" : true
+                    },
+                    {
+                        "text" : "TODO item 2",
+                        "checked" : false
+                    },
+                    {
+                        "text" : "TODO item 3",
+                        "checked" : false
+                    }
+                ]
+            }
+        }
+    ],
+    "version" : "2.12.4"
+}
