@@ -22,7 +22,12 @@ module.exports.authenticate = (username,password,role) => {
                     else {
                         console.log((results != null ? results : []).length + ' records found...');
                         
-                        if(results && results.length > 0)   authStatus = true;
+                        if(results && results.length > 0)  {
+                            authStatus = {
+                                auth : true,
+                                user_org : results[0].org
+                            };
+                        } 
 
                         console.log('Attempting to end connection...');
                         connection.end( (connEndErr) => {

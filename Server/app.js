@@ -7,6 +7,7 @@ const cors = require('cors');
 const app = express();
 
 const index = require('./api/routes/index');
+const config = require('./config/config');
 
 const PORT = 6001;
 // publicDir = '../Client/dist',
@@ -22,8 +23,10 @@ const PORT = 6001;
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(cookieParser());
+// app.use(cookieParser());
 // app.use(express.static(publicDir));
+
+mongoose.connect(config.mongoDbUrl);
 
 // app.use(passport.initialize());
 
